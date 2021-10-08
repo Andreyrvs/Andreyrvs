@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## - 🌱 I’m currently learning ...
- HTML/CSS
+ HTML/CSS and JavaScript
 <!--
 **Andreyrvs/Andreyrvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
