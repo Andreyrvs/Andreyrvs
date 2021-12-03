@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-## - 🌱 I’m currently learning ...
- ES6 - HOF
+
  
  [![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andreyrvs&show_icons=true&theme=vue-dark)](https://github.com/Andreyrvs/github-readme-stats)
 
@@ -18,6 +17,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## - 🌱 I’m currently learning ...
+ ES6 - HOF
 -->
 ---
 ## Social
