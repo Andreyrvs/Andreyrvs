@@ -20,4 +20,4 @@ Here are some ideas to get you started:
  <a href="https://www.linkedin.com/in/andreyrvs/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-[Linkedin]-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/andreyrvs/])]([Link perfil no LinkedIn])
+<a href="[https://www.linkedin.com/in/andreyrvs/]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
