@@ -2,6 +2,9 @@
 
 ## - 🌱 I’m currently learning ...
  ES6 - HOF
+ 
+ [![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andreyrvs&show_icons=true&theme=radical)](https://github.com/Andreyrvs/github-readme-stats)
+
 <!--
 **Andreyrvs/Andreyrvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
