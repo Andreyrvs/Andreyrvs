@@ -16,8 +16,6 @@
 
 Readme stats by @[anuraghazra](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andreyrvs&" alt="andreyrvs" /></p>
-
 ---
 
 <h3 align="left">Conecte-se comigo:</h3>
