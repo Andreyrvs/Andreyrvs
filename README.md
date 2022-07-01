@@ -4,7 +4,7 @@
 
 Sou apaixonado por tecnologia dês de criança quando ganhei meu primeiro pc com windows 98
 
-### Idiomas e ferramentas
+### Linguagem de Programação e ferramentas
 
 <p align="left"> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
