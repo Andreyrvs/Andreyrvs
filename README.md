@@ -15,14 +15,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andreyrvs&show_icons=true&locale=en&theme=vue-dark" alt="andreyrvs" /></p>
 
 Readme stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andreyrvs&label=Profile%20views&color=0e75b6&style=flat" alt="andreyrvs" /> </p>
 
 ---
 
 <h3 align="left">Conecte-se comigo:</h3>
-<div>
 <p align="left">
  <a href="https://www.linkedin.com/in/andreyrvisniewski/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andreyrvs&label=Profile%20views&color=0e75b6&style=flat" alt="andreyrvs" /> </p> 
-</div>
-
