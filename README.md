@@ -1,4 +1,4 @@
-<h1 align="center">👋 Andrey aqui <p align="right"> <img src="https://komarev.com/ghpvc/?username=andreyrvs&label=Profile%20views&color=0e75b6&style=flat" alt="andreyrvs" /> </p> </h1>
+<h1 align="center">👋 Andrey aqui </h1>
 
 <h3 align="center"><a href="https://www.betrybe.com/">Estudante de Desenvolvimento Web na Trybe</a></h3>
 
@@ -19,6 +19,9 @@ Readme stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats
 ---
 
 <h3 align="left">Conecte-se comigo:</h3>
+<div>
 <p align="left">
  <a href="https://www.linkedin.com/in/andreyrvisniewski/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
+</div>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=andreyrvs&label=Profile%20views&color=0e75b6&style=flat" alt="andreyrvs" /> </p> 
