@@ -62,8 +62,6 @@ Sou apaixonado por tecnologia dês de criança quando ganhei meu primeiro pc com
 
 Readme stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
 
-![andreyrvs](https://komarev.com/ghpvc/?username=andreyrvs&label=Profile%20views&color=0e75b6&style=flat)
-
 ---
 
 ### Conecte-se comigo
