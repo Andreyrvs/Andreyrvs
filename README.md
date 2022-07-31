@@ -52,6 +52,9 @@ Sou apaixonado por tecnologia dês de criança quando ganhei meu primeiro pc com
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 </a>
+<a href="https://sequelize.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"
+</a>
 </p>
 
 ---
