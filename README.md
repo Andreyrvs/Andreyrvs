@@ -44,14 +44,13 @@ Badges by [alexandresanlim](https://github.com/alexandresanlim/Badges4-README.md
 
 ---
 
-![andreyrvs](https://github-readme-stats.vercel.app/api/top-langs?username=andreyrvs&show_icons=true&locale=en&layout=compact&theme=vue-dark)
-
-![andreyrvs](https://github-readme-stats.vercel.app/api?username=andreyrvs&show_icons=true&locale=en&theme=vue-dark)
-
-Readme stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### Conecte-se comigo
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreyrvisniewski/)
+
+---
+
+![andreyrvs](https://github-readme-stats.vercel.app/api?username=andreyrvs&show_icons=true&locale=en&theme=vue-dark&count_private=true)
+![andreyrvs](https://github-readme-stats.vercel.app/api/top-langs?username=andreyrvs&show_icons=true&locale=en&layout=compact&theme=vue-dark)
+
+Readme stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
