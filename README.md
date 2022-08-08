@@ -5,11 +5,11 @@
 Dês do primeiro contato com a internet tive a vontade de saber como era um site por "debaixo dos panos" dai encontrei a Trybe . Estou buscando transição de carreira para área de tecnologia, quero trabalhar como desenvolvedor full stack, tenho conhecimento nas:
 
 ### Linguagemr de Programação e ferramentas
-
 <!-- 
   # Modelo para imagem com link
   [![Foo]()]()
 -->
+
 > OS e versionamento
 
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
@@ -34,6 +34,7 @@ Dês do primeiro contato com a internet tive a vontade de saber como era um site
 [![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)](https://sequelize.org/)
 [![Jason Web Token](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)](https://jwt.io/)
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/pt/)
 
 > Testes
 
