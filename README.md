@@ -2,11 +2,9 @@
 
 ## [Estudante de Desenvolvimento Web na Trybe](https://www.betrybe.com/)
 
-Sou apaixonado por tecnologia dês de criança quando ganhei meu primeiro pc com windows 98
+Dês do primeiro contato com a internet tive a vontade de saber como era um site por "debaixo dos panos" dai encontrei a Trybe . Estou buscando transição de carreira para área de tecnologia, quero trabalhar como desenvolvedor full stack, tenho conhecimento nas:
 
----
-
-### Linguagem de Programação e ferramentas
+### Linguagemr de Programação e ferramentas
 
 <!-- 
   # Modelo para imagem com link
