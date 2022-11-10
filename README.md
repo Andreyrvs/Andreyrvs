@@ -2,7 +2,7 @@
 
 ## [Estudante de Desenvolvimento Web na Trybe](https://www.betrybe.com/)
 
-Desde o primeiro contato com a internet tive a vontade de saber como era um site por "debaixo dos panos" dai encontrei a Trybe . Estou buscando transição de carreira para área de tecnologia, quero trabalhar como desenvolvedor full stack, tenho conhecimento nas:
+Desde o primeiro contato com a internet tive a vontade de saber como era um site por "debaixo dos panos" dai encontrei a Trybe. Estou buscando transição de carreira para área de tecnologia, quero trabalhar como desenvolvedor full stack, tenho conhecimento nas:
 
 ### Linguagemr de Programação e ferramentas
 <!-- 
