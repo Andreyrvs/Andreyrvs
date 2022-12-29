@@ -4,7 +4,7 @@
 
 Desde o primeiro contato com a internet tive a vontade de saber como era um site por "debaixo dos panos" dai encontrei a Trybe. Estou buscando transição de carreira para área de tecnologia, quero trabalhar como desenvolvedor full stack, tenho conhecimento nas:
 
-### Linguagemr de Programação e ferramentas
+### Linguagem de Programação e ferramentas
 <!-- 
   # Modelo para imagem com link
   [![Foo]()]()
