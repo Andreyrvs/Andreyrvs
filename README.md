@@ -2,7 +2,7 @@
 
 ## [Estudante de Desenvolvimento Web na Trybe](https://www.betrybe.com/)
 
-Viso construir uma carreira solida no desenvolvimento web. Estou fazendo transição de carreira para área de tecnologia, quero trabalhar como desenvolvedor Front-end, conhecimento adquirido no curso da Trybe:
+Estou em uma transição de carreira tendo atuado no setor publico, busco uma oportunidade em tecnologia visando construir uma carreira solida no desenvolvimento web. Quero trabalhar como desenvolvedor Front-end.
 
 ### Linguagem de Programação e ferramentas
 <!-- 
