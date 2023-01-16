@@ -50,8 +50,10 @@ Badges by [alexandresanlim](https://github.com/alexandresanlim/Badges4-README.md
 
 ---
 
-![andreyrvs](https://github-readme-stats.vercel.app/api/top-langs?username=Andreyrvs&show_icons=true&locale=en&layout=compact&theme=dracula)
 
-![andreyrvs](https://github-readme-stats.vercel.app/api?username=Andreyrvs&show_icons=true&locale=en&theme=dracula&count_private=true&PAT_1)
+[![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andreyrvs&layout=compact&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+|
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreyrvs&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Readme stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
