@@ -1,8 +1,13 @@
-# 👋 Andrey aqui
+# 👋 Andrey aqui sou 
+## Desenvolvedor Web
 
-## [Estudante de Desenvolvimento Web na Trybe](https://www.betrybe.com/)
+Tenho interesse em atuar como desenvolvedor Web diante disso estou em processo de transição de carreira tendo atuado no setor público, busco então uma oportunidade em tecnologia.
 
-Estou em uma transição de carreira tendo atuado no setor publico, busco uma oportunidade em tecnologia visando construir uma carreira solida no desenvolvimento web. Quero trabalhar como desenvolvedor Front-end.
+### Formação
+[Desenvolvimento Web Full Stack — Trybe](https://www.betrybe.com/), conclusão em Março de 2023. 
+       O programa conta com mais de 1.500 horas de aulas e aborda introdução ao desenvolvimento  
+       de software, front-end, back-end, ciência da computação, engenharia de software,         
+       metodologias ágeis e habilidades comportamentais.
 
 ### Linguagem de Programação e ferramentas
 <!-- 
