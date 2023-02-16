@@ -46,14 +46,14 @@ O programa conta com mais de 1.500 horas de aulas e aborda introdução ao desen
 > [![MochaJs](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)](https://mochajs.org)
 > [![ChaiJs](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)](https://www.chaijs.com/)
 
-Badges by [alexandresanlim](https://github.com/alexandresanlim/Badges4-README.md-Profile#-database-)
+Badges by [alexandresanlim](https://github.com/alexandresanlim/Badges4-README.md-Profile#-database- "O melhor")
 
 ---
 
 ### Conecte-se comigo
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreyrv/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cortaesai@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cortaesai@gmail.com "cortaesai@gmail.com")
 
 ---
 
