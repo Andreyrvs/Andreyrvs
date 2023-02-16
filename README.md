@@ -45,6 +45,7 @@ Tenho interesse em atuar como desenvolvedor Web, diante disso estou em processo 
 > Testes
 >
 > [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io)
+> ![React Testing Library Badge](https://img.shields.io/badge/-RTL-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 > [![MochaJs](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)](https://mochajs.org)
 > [![ChaiJs](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)](https://www.chaijs.com/)
 
