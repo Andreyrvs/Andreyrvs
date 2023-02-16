@@ -14,8 +14,8 @@ O programa conta com mais de 1.500 horas de aulas e aborda introdução ao desen
 -->
 
 > Versionamento
-
-[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+>
+>[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 > Front-end
 >
