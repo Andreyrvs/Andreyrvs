@@ -68,8 +68,8 @@ Badges by [alexandresanlim](https://github.com/alexandresanlim/Badges4-README.md
 |
 [![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreyrvs&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andreyrvs&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andreyrvs&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Andreyrvs&theme=github_dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Andreyrvs&theme=dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 Readme stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats ":grin:")
