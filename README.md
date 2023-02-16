@@ -64,11 +64,11 @@ Badges by [alexandresanlim](https://github.com/alexandresanlim/Badges4-README.md
 
 ---
 
-[![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andreyrvs&layout=compact&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andreyrvs&layout=compact&theme=dracula&show_icons=true&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreyrvs&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-|
 [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Andreyrvs&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+|
+[![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreyrvs&layout=compact&theme=dracula&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andreyrvs&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
