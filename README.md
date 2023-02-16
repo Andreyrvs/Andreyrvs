@@ -6,7 +6,7 @@ Tenho interesse em atuar como desenvolvedor Web, diante disso estou em processo 
 
 [Desenvolvimento Web Full Stack — Trybe](https://www.betrybe.com/), conclusão em Março de 2023.
 
-O programa conta com mais de 1.500 horas de aulas e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software,metodologias ágeis e habilidades comportamentais.
+*O programa conta com mais de 1.500 horas de aulas e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software,metodologias ágeis e habilidades comportamentais*.
 
 ### Linguagem de Programação e ferramentas
 <!-- 
