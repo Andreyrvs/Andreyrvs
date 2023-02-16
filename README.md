@@ -8,6 +8,15 @@ Tenho interesse em atuar como desenvolvedor Web, diante disso estou em processo 
 
 *O programa conta com mais de 1.500 horas de aulas e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software,metodologias ágeis e habilidades comportamentais*.
 
+---
+
+### Conecte-se comigo
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreyrv/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cortaesai@gmail.com "cortaesai@gmail.com")
+
+---
+
 ### Linguagem de Programação e ferramentas
 <!-- 
   # Modelo para imagem com link
@@ -52,13 +61,6 @@ Tenho interesse em atuar como desenvolvedor Web, diante disso estou em processo 
 > [![Sinon Badge](https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon)](https://sinonjs.org/)
 
 Badges by [alexandresanlim](https://github.com/alexandresanlim/Badges4-README.md-Profile#-database- ":grin:")
-
----
-
-### Conecte-se comigo
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreyrv/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cortaesai@gmail.com "cortaesai@gmail.com")
 
 ---
 
