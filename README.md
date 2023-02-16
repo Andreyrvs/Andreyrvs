@@ -1,6 +1,7 @@
 # 👋 Andrey aqui sou Desenvolvedor Web
 
 Tenho interesse em atuar como desenvolvedor Web, diante disso estou em processo de transição de carreira tendo atuado no setor público, busco então uma oportunidade em tecnologia.
+
 ## Formação
 
 [Desenvolvimento Web Full Stack — Trybe](https://www.betrybe.com/), conclusão em Março de 2023.
@@ -46,7 +47,7 @@ O programa conta com mais de 1.500 horas de aulas e aborda introdução ao desen
 > [![MochaJs](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)](https://mochajs.org)
 > [![ChaiJs](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)](https://www.chaijs.com/)
 
-Badges by [alexandresanlim](https://github.com/alexandresanlim/Badges4-README.md-Profile#-database- "O melhor")
+Badges by [alexandresanlim](https://github.com/alexandresanlim/Badges4-README.md-Profile#-database- ":grin:")
 
 ---
 
@@ -61,6 +62,4 @@ Badges by [alexandresanlim](https://github.com/alexandresanlim/Badges4-README.md
 |
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreyrvs&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-Readme stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
-
-Email: cortaesai@gmail.com
+Readme stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats ":grin:")
