@@ -72,4 +72,4 @@ Badges by [alexandresanlim](https://github.com/alexandresanlim/Badges4-README.md
 
 [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andreyrvs&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-Readme stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats ":grin:")
+<!-- Readme stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats ":grin:") -->
