@@ -1,13 +1,13 @@
-# 👋 Andrey aqui sou 
+# 👋 Andrey aqui
+
 ## Desenvolvedor Web
 
 Tenho interesse em atuar como desenvolvedor Web diante disso estou em processo de transição de carreira tendo atuado no setor público, busco então uma oportunidade em tecnologia.
 
 ### Formação
-[Desenvolvimento Web Full Stack — Trybe](https://www.betrybe.com/), conclusão em Março de 2023. 
-       O programa conta com mais de 1.500 horas de aulas e aborda introdução ao desenvolvimento  
-       de software, front-end, back-end, ciência da computação, engenharia de software,         
-       metodologias ágeis e habilidades comportamentais.
+
+[Desenvolvimento Web Full Stack — Trybe](https://www.betrybe.com/), conclusão em Março de 2023.
+O programa conta com mais de 1.500 horas de aulas e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software,metodologias ágeis e habilidades comportamentais.
 
 ### Linguagem de Programação e ferramentas
 <!-- 
@@ -25,6 +25,7 @@ Tenho interesse em atuar como desenvolvedor Web diante disso estou em processo d
 [![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E")](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/en/main)
 [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org)
 
