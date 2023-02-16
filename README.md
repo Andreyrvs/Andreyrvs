@@ -31,16 +31,16 @@ O programa conta com mais de 1.500 horas de aulas e aborda introdução ao desen
 
 > Back-end
 
-[![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![NodeJs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![ExpressJs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
+[![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
 [![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)](https://sequelize.org/)
 [![Jason Web Token](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)](https://jwt.io/)
-[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/pt/)
 
-> Testes
+
+- > Testes
 
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io)
 [![MochaJs](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)](https://mochajs.org)
@@ -56,11 +56,9 @@ Badges by [alexandresanlim](https://github.com/alexandresanlim/Badges4-README.md
 
 ---
 
-
 [![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andreyrvs&layout=compact&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 |
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreyrvs&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 
 Readme stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
 
