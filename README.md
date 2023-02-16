@@ -1,7 +1,6 @@
 # 👋 Andrey aqui sou Desenvolvedor Web
 
-Tenho interesse em atuar como desenvolvedor Web diante disso estou em processo de transição de carreira tendo atuado no setor público, busco então uma oportunidade em tecnologia.
-
+Tenho interesse em atuar como desenvolvedor Web, diante disso estou em processo de transição de carreira tendo atuado no setor público, busco então uma oportunidade em tecnologia.
 ## Formação
 
 [Desenvolvimento Web Full Stack — Trybe](https://www.betrybe.com/), conclusão em Março de 2023.
@@ -54,6 +53,7 @@ Badges by [alexandresanlim](https://github.com/alexandresanlim/Badges4-README.md
 ### Conecte-se comigo
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreyrv/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cortaesai@gmail.com)
 
 ---
 
