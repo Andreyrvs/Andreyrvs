@@ -4,7 +4,7 @@ Tenho interesse em atuar como desenvolvedor Web, diante disso estou em processo 
 
 ---
 
-## Meus interesses pessoais
+## Meus interesses
 
 - :radio::loud_sound: Meu estilo de musica vai do System of a Down, Metallica ao Blackpink, BTS sem deixar de lado um bom Sertanejo e EDM.
  Meu [Recap 2022](https://music.youtube.com/playlist?list=LRYRuYKS84_mqoO9LG6h3jH4gtZKsd1L_lB6E&feature=share) aqui tem de tudo e mais um pouco. :heart_eyes:
