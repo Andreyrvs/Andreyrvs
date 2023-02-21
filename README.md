@@ -82,5 +82,5 @@ Tenho interesse em atuar como desenvolvedor Web, diante disso estou em processo 
 | [![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreyrvs&layout=compact&theme=dracula&hide_border=True&line_height=20)](https://github.com/anuraghazra/github-readme-stats) | [![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andreyrvs&layout=compact&theme=dracula&show_icons=true&hide_border=True&line_height=20)](https://github.com/anuraghazra/github-readme-stats) |
 | ----------- | ----------- |
 | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Andreyrvs&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andreyrvs&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
-| ![Profile Views](https://komarev.com/ghpvc/?username=Andreyrvs) |
+| ![Profile Views](https://komarev.com/ghpvc/?username=Andreyrvs&style=for-the-badge&color=037B7B) |
 <!-- Readme stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats ":grin:") -->
