@@ -6,6 +6,7 @@ Tenho interesse em atuar como desenvolvedor Web, diante disso estou em processo 
 
 ## Meus interesses
 
+- :books: Acesse os livros que estou lendo [aqui](https://www.skoob.com.br/usuario/9674399)
 - :notes: Meu estilo de musica vai do System of a Down, Metallica ao Blackpink, BTS sem deixar de lado um bom Sertanejo e EDM.
  Meu [Recap 2022](https://music.youtube.com/playlist?list=LRYRuYKS84_mqoO9LG6h3jH4gtZKsd1L_lB6E&feature=share) aqui tem de tudo e mais um pouco. :star_struck:
 - :desktop_computer: Meus hobbies atualmente são caminhada, [Rise of Kingdoms](https://play.google.com/store/apps/details?id=com.lilithgame.roc.gp).
