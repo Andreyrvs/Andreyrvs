@@ -23,7 +23,8 @@ Tenho interesse em atuar como desenvolvedor Web, diante disso estou em processo 
   # Modelo para imagem com link
   [![Foo]()]()
 -->
-### Linguagem de Programação e ferramentas
+### Linguagens de Programação e ferramentas
+
 >º
 >> Utilizo todos os dias ou quase :grin:
 >>
@@ -62,7 +63,7 @@ Tenho interesse em atuar como desenvolvedor Web, diante disso estou em processo 
 >> [![ChaiJs](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)](https://www.chaijs.com/)
 >> [![Sinon Badge](https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon)](https://sinonjs.org/)
 >
-> Badges by [alexandresanlim](https://github.com/alexandresanlim/Badges4-README.md-Profile#-database- ":grin:")
+>> Badges by [alexandresanlim](https://github.com/alexandresanlim/Badges4-README.md-Profile#-database- "Click Me")
 >
 >º
 
