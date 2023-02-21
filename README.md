@@ -1,4 +1,4 @@
-# 👋 Andrey aqui sou Desenvolvedor Web
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&pause=1000&color=309C20&background=FFFFFF00&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Andrey+aqui+sou+Desenvolvedor+Web)](https://git.io/typing-svg)
 
 Tenho interesse em atuar como desenvolvedor Web, diante disso estou em processo de transição de carreira tendo atuado no setor público, busco então uma oportunidade em tecnologia.
 
