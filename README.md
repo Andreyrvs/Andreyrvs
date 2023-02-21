@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=40&pause=1000&color=037B7B&background=FFFFFF00&vCenter=true&width=700&height=60&lines=%F0%9F%91%8B+Andrey+aqui+sou+Desenvolvedor+Web)](https://git.io/typing-svg)
+# | [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=40&pause=1000&color=037B7B&background=FFFFFF00&vCenter=true&width=700&height=60&lines=%F0%9F%91%8B+Andrey+aqui+sou+Desenvolvedor+Web)](https://git.io/typing-svg) | ![Profile Views](https://komarev.com/ghpvc/?username=Andreyrvs) |
 
 Tenho interesse em atuar como desenvolvedor Web, diante disso estou em processo de transição de carreira tendo atuado no setor público, busco então uma oportunidade em tecnologia.
 
@@ -23,6 +23,7 @@ Tenho interesse em atuar como desenvolvedor Web, diante disso estou em processo 
 ---
 
 ### Conecte-se comigo
+
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreyrv/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cortaesai@gmail.com "cortaesai@gmail.com")
