@@ -1,6 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=40&pause=1000&color=037B7B&background=FFFFFF00&vCenter=true&width=700&height=60&lines=%F0%9F%91%8B+Andrey+aqui+sou+Desenvolvedor+Web)](https://git.io/typing-svg)
 
 Tenho interesse em atuar como desenvolvedor Web, diante disso estou em processo de transição de carreira tendo atuado no setor público, busco então uma oportunidade em tecnologia.
+
 Após muito alguns anos trabalhando em serviços braçais percebi muito o que eu fazia era repetitivo e exigia pouco conhecimento, então decidi me especializar na área de tecnologia onde posso me desenvolver em JavaScript, TypeScript, React, Node.js, Python podendo assim solucionando desafios na carreira.
 
 ---
