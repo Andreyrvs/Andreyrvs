@@ -9,8 +9,8 @@ Tenho interesse em atuar como desenvolvedor Web, diante disso estou em processo 
 - :books: Acesse os livros que estou lendo [aqui](https://www.skoob.com.br/usuario/9674399)
 - :notes: As musicas que ouço vão do System of a Down, Metallica ao Blackpink, BTS sem deixar de lado um bom Sertanejo e EDM.
  Meu [Recap 2022](https://music.youtube.com/playlist?list=LRYRuYKS84_mqoO9LG6h3jH4gtZKsd1L_lB6E&feature=share) aqui tem de tudo e mais um pouco. :star_struck:
-- :desktop_computer: Meus hobbies atualmente são caminhada, [Rise of Kingdoms](https://play.google.com/store/apps/details?id=com.lilithgame.roc.gp).
-- :page_with_curl: Veja Meu [Currículo Front-end](https://www.canva.com/design/DAFbOy6gdR0/qISjQWr6aKRu0tgVaYC1ZQ/view?utm_content=DAFbOy6gdR0&utm_campaign=designshare&utm_medium=link&utm_source=viewer) para mais informações.
+- :desktop_computer: Meus hobbies atualmente são caminhada.
+- :page_with_curl: Veja Meu [Currículo FullStack](https://www.canva.com/design/DAFeBJke-Mk/nyhFu-fQATEZE5RpBj7CRg/view?website#4) para mais informações.
 
 ---
 
