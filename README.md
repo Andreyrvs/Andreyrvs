@@ -69,12 +69,10 @@ Tenho interesse em atuar como desenvolvedor Web, diante disso estou em processo 
 >>
 >> [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
 >> [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
->> [![Jason Web Token](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)](https://jwt.io/)
+>> [![Jason Web Token](https://img.shields.io/badge/JWT-C235E6?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)](https://jwt.io/)
 >> [![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/)
 >> [![CI/CD](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://docs.github.com/pt/actions)
 >>
->>
->
 >> Banco de dados
 >>
 >> [![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
