@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=40&pause=1000&color=037B7B&background=FFFFFF00&vCenter=true&width=700&height=60&lines=%F0%9F%91%8B+Andrey+aqui+sou+Desenvolvedor+Web)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=24&pause=1000&color=037B7B&background=FFFFFF00&vCenter=true&width=700&height=30&lines=%F0%9F%91%8B+Andrey+aqui+sou+Desenvolvedor+Web)](https://git.io/typing-svg)
 
 Tenho interesse em atuar como desenvolvedor Web, diante disso estou em processo de transição de carreira tendo atuado no setor público. Decidi me especializar na área de tecnologia após alguns anos trabalhando em serviços braçais que eram repetitivos e exigiam pouco conhecimento. Agora, estou animado para me desenvolver em tecnologias como JavaScript, TypeScript, React, Node.js e Python, para solucionar desafios em minha carreira.
 
