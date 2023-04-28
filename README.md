@@ -104,6 +104,7 @@ Decidi me especializar na área de tecnologia após alguns anos trabalhando em s
 | ----------- | ----------- |
 | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Andreyrvs&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andreyrvs&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
 | ![Profile Views](https://komarev.com/ghpvc/?username=Andreyrvs&style=for-the-badge&color=037B7B) |
+
 <!-- Readme stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats ":grin:") -->
 
 > caso os status não apareção regarrega a página!
