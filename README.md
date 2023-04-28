@@ -14,22 +14,6 @@ Decidi me especializar na área de tecnologia após alguns anos trabalhando em s
 
 ---
 
-<!-- ### Formação
-
-[Desenvolvimento Web Full Stack — Trybe](https://www.betrybe.com/), conclusão em Março de 2023.
-
-*O programa conta com mais de 1.500 horas de aulas e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software,metodologias ágeis e habilidades comportamentais*. 
-
----
--->
-<!-- 
-### Conecte-se comigo
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreyrv/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cortaesai@gmail.com "cortaesai@gmail.com")
-
----
- -->
 <!-- 
   # Modelo para imagem com link
   [![Foo]()]()
