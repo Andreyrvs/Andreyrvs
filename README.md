@@ -35,7 +35,7 @@ Decidi me especializar na área de tecnologia após alguns anos trabalhando em s
   [![Foo]()]()
 -->
 ### Linguagens de Programação e ferramentas
-
+<!-- 
 >º
 >> Utilizo todos os dias ou quase :grin:
 >>
@@ -96,7 +96,7 @@ Decidi me especializar na área de tecnologia após alguns anos trabalhando em s
 >
 >> Badges by [alexandresanlim](https://github.com/alexandresanlim/Badges4-README.md-Profile#-database- "Click Me")
 >
->º
+>º -->
 
 <!--
 
