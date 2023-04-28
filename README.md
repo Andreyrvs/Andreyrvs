@@ -18,6 +18,7 @@ Decidi me especializar na área de tecnologia após alguns anos trabalhando em s
   # Modelo para imagem com link
   [![Foo]()]()
 -->
+
 ### Linguagens de Programação e ferramentas
 
 | Linguagens |[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E")](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/pt/) | [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/) |
