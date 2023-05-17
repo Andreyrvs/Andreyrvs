@@ -9,8 +9,8 @@ Decidi me especializar na área de tecnologia após alguns anos trabalhando em s
 - :books: Acesse os livros que estou lendo [aqui](https://www.skoob.com.br/usuario/9674399)
 - :notes: As musicas que ouço vão do System of a Down, Metallica ao Blackpink, BTS sem deixar de lado um bom Sertanejo e EDM.
  Meu [Recap 2022](https://music.youtube.com/playlist?list=LRYRuYKS84_mqoO9LG6h3jH4gtZKsd1L_lB6E&feature=share) aqui tem de tudo e mais um pouco. :star_struck:
-- :hourglass_flowing_sand: Meus hobbies atualmente são caminhada.
-- :page_with_curl: Veja Meu [Currículo FullStack](https://www.canva.com/design/DAFeBJke-Mk/nyhFu-fQATEZE5RpBj7CRg/view?website#4) para mais informações.
+- :hourglass_flowing_sand: Meus hobbies atualmente são caminhada, escrever para meu [Blog](https://www.andreyrv.dev/blog).
+- :page_with_curl: Veja Meu [Currículo FullStack](https://www.andreyrv.dev/curriculum) para mais informações.
 
 ---
 
