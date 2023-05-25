@@ -41,4 +41,4 @@ Após trabalhar por muito tempo em serviços que não me desafiavam nem me motiv
 | ![Profile Views](https://komarev.com/ghpvc/?username=Andreyrvs&style=for-the-badge&color=037B7B) |
 <!-- Readme stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats ":grin:") -->
 
-> caso os status não apareção regarrega a página!
+> caso os status não apareçam regarregue a página!
