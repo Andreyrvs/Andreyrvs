@@ -1,13 +1,13 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=24&pause=1000&color=037B7B&background=FFFFFF00&vCenter=true&width=700&height=34&lines=%F0%9F%91%8B+Andrey+aqui+sou+Desenvolvedor+Web)](https://git.io/typing-svg)
 
-Decidi me especializar na área de tecnologia após alguns anos trabalhando em serviços braçais que eram repetitivos e exigiam pouco conhecimento. Agora, estou animado para me desenvolver em tecnologias como JavaScript, TypeScript, React, Node.js e Python, para solucionar desafios em minha carreira.
+Após trabalhar por muito tempo em serviços que não me desafiavam nem me motivavam, resolvi mudar de área e me dedicar à tecnologia. Estou muito empolgado para aprender e aplicar tecnologias como JavaScript, TypeScript, React, Node.js e Python,
 
 ---
 
 ## Meus interesses
 
 - :books: Acesse os livros que estou lendo [aqui](https://www.skoob.com.br/usuario/9674399)
-- :notes: As musicas que ouço vão do System of a Down, Metallica ao Blackpink, BTS sem deixar de lado um bom Sertanejo e EDM.
+- :notes: Eu adoro música! Não importa o estilo, eu sempre encontro algo que me agrada e me anima. Rock, Kpop, Sertanejo, EDM... eu ouço de tudo um pouco e me divirto muito.
  Meu [Recap 2022](https://music.youtube.com/playlist?list=LRYRuYKS84_mqoO9LG6h3jH4gtZKsd1L_lB6E&feature=share) aqui tem de tudo e mais um pouco. :star_struck:
 - :hourglass_flowing_sand: Meus hobbies atualmente são caminhada, escrever para meu [Blog](https://www.andreyrv.dev/blog).
 - :page_with_curl: Veja Meu [Currículo FullStack](https://www.andreyrv.dev/curriculum) para mais informações.
