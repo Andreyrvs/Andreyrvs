@@ -22,10 +22,12 @@ Após trabalhar por muito tempo em serviços que não me desafiavam nem me motiv
   [![Foo]()]()
 -->
 
-### Linguagens de Programação e ferramentas
+### Linguagens de Programação 
 
-| Linguagens |[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E")](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/pt/) | [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/) |
-| :---       | :---: | :---: |:---: |
+|[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E")](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/pt/) | [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/) |
+| :---: | :---: |:---: |
+
+### Ferramentas
 
 | Front-end | Back-end | Banco de dados | Testes | Outros |
 | :--       | :---     | :---           | :---   | :---  |
@@ -40,8 +42,11 @@ Após trabalhar por muito tempo em serviços que não me desafiavam nem me motiv
 
 | [![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreyrvs&layout=compact&theme=dracula&hide_border=True&line_height=20&PAT_1)](https://github.com/anuraghazra/github-readme-stats) | [![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andreyrvs&layout=compact&theme=dracula&show_icons=true&hide_border=True&line_height=20&PAT_1)](https://github.com/anuraghazra/github-readme-stats) |
 | ----------- | ----------- |
-| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Andreyrvs&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andreyrvs&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
-| ![Profile Views](https://komarev.com/ghpvc/?username=Andreyrvs&style=for-the-badge&color=037B7B) |
-<!-- Readme stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats ":grin:") -->
+|  ![Profile Views](https://komarev.com/ghpvc/?username=Andreyrvs&style=for-the-badge&color=037B7B) | > caso os status não apareçam, recarregue a página!
 
-> caso os status não apareçam, recarregue a página!
+<!--
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Andreyrvs&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andreyrvs&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+Readme stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats ":grin:") 
+-->
+
+
