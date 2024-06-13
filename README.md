@@ -16,7 +16,7 @@ Após trabalhar por muito tempo em serviços que não me desafiavam nem me motiv
 - :hourglass_flowing_sand: Meus hobbies atualmente são caminhada, escrever para meu [Blog](https://www.andreyrv.dev/blog).
 -->
 
-- :page_with_curl: Veja Meu [Currículo](https://www.andreyrv.dev/curriculum) para mais informações.
+- :page_with_curl: Veja Meu [Currículo](https://andreyrvs.github.io/) para mais informações.
 
 ---
 
