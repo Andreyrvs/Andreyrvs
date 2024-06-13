@@ -1,5 +1,6 @@
+<!--
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=24&pause=1000&color=037B7B&background=FFFFFF00&vCenter=true&width=700&height=34&lines=%F0%9F%91%8B+Andrey+aqui+sou+Desenvolvedor+Web)](https://git.io/typing-svg)
-
+-->
 Após trabalhar por muito tempo em serviços que não me desafiavam nem me motivavam, resolvi mudar de área e me dedicar à tecnologia. Estou muito empolgado para aprender e aplicar tecnologias como JavaScript, TypeScript, React, Node.js e Python. entre em contado comigo pelo email andreyrvdev@gmail.com
 
 ---
