@@ -14,9 +14,9 @@ Após trabalhar por muito tempo em serviços que não me desafiavam nem me motiv
 - :books: Acesse os livros que estou lendo [aqui](https://www.skoob.com.br/usuario/9674399)
 - :notes: Eu adoro música! Não importa o estilo, eu sempre encontro algo que me agrada e me anima. Rock, Kpop, Sertanejo, EDM... eu ouço de tudo um pouco e me divirto muito.
 - :hourglass_flowing_sand: Meus hobbies atualmente são caminhada, escrever para meu [Blog](https://www.andreyrv.dev/blog).
+- :page_with_curl: Veja Meu [Currículo](https://andreyrvs.github.io/) para mais informações.
 -->
 
-- :page_with_curl: Veja Meu [Currículo](https://andreyrvs.github.io/) para mais informações.
 
 ---
 
