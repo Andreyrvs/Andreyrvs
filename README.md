@@ -1,9 +1,10 @@
 <!--
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=24&pause=1000&color=037B7B&background=FFFFFF00&vCenter=true&width=700&height=34&lines=%F0%9F%91%8B+Andrey+aqui+sou+Desenvolvedor+Web)](https://git.io/typing-svg)
 -->
-# Andrey aqui, sou desenvolvedor web
+# Andrey aqui, sou estudande de Analise e Desenvolvimento de Sistemas
 
-Após trabalhar por muito tempo em serviços que não me desafiavam nem me motivavam, resolvi mudar de área e me dedicar à tecnologia. Estou muito empolgado para aprender e aplicar tecnologias como JavaScript, TypeScript, React, Node.js e Python. entre em contado comigo pelo email andreyrvdev@gmail.com
+Após trabalhar por muito tempo em serviços que não me desafiavam nem me motivavam, resolvi mudar de área e me dedicar à tecnologia. Estou muito empolgado para aprender e aplicar tecnologias como Php, Java, C, e Python. 
+contado pelo email andreyrvdev@gmail.com
 
 ---
 
@@ -26,7 +27,7 @@ Após trabalhar por muito tempo em serviços que não me desafiavam nem me motiv
 -->
 
 ### Linguagens de Programação 
-
+<!--
 |[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E")](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/pt/) | [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/) |
 | :---: | :---: |:---: |
 
@@ -46,7 +47,7 @@ Após trabalhar por muito tempo em serviços que não me desafiavam nem me motiv
 | [![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreyrvs&layout=compact&theme=dracula&hide_border=True&line_height=20&PAT_1)](https://github.com/anuraghazra/github-readme-stats) | [![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andreyrvs&layout=compact&theme=dracula&show_icons=true&hide_border=True&line_height=20&PAT_1)](https://github.com/anuraghazra/github-readme-stats) |
 | ----------- | ----------- |
 |  ![Profile Views](https://komarev.com/ghpvc/?username=Andreyrvs&style=for-the-badge&color=037B7B) | > caso os status não apareçam, recarregue a página!
-
+-->
 <!--
 | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Andreyrvs&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andreyrvs&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 Readme stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats ":grin:") 
