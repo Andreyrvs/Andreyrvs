@@ -3,7 +3,7 @@
 -->
 # Andrey aqui, sou estudande de Analise e Desenvolvimento de Sistemas
 
-Após trabalhar por muito tempo em serviços que não me desafiavam nem me motivavam, resolvi mudar de área e me dedicar à tecnologia. Estou muito empolgado para aprender e aplicar tecnologias como Php, Java, C, e Python. 
+Estou atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul. Recentemente, decidi fazer uma transição de carreira para a área de tecnologia, após alguns anos trabalhando em serviços braçais que exigiam pouco conhecimento técnico. Durante os últimos seis meses, tenho me dedicado a estudar e me especializar em tecnologias como PHP, Java, C/C++ e Python. Estou animado para aplicar meus conhecimentos e enfrentar desafios no campo da programação e desenvolvimento de sistemas. Minha experiência anterior como Agente Educacional me ensinou a importância do trabalho em equipe, organização e comunicação eficiente. Durante meu tempo lá, fui responsável por mediar questões ambientais e de higiene, organizar a distribuição de alimentação escolar e acompanhar estudantes em atividades extracurriculares. Essas responsabilidades desenvolveram minhas habilidades de liderança, resolução de problemas e gerenciamento de tempo.
 contado pelo email andreyrvdev@gmail.com
 
 ---
