@@ -11,7 +11,7 @@ contado pelo email andreyrvdev@gmail.com
 ## Meus interesses
 
 - :books: Acesse os livros que estou lendo [aqui](https://www.skoob.com.br/usuario/9674399)
-- :notes: Eu adoro música! Não importa o estilo, eu sempre encontro algo que me agrada e me anima. Sertanejo, EDM... eu ouço de tudo um pouco e me divirto muito.
+- :notes: Eu adoro música! eu sempre encontro algo que me agrada e me anima. Sertanejo, EDM... eu ouço de tudo um pouco e me divirto.
 - :hourglass_flowing_sand: Meus hobbies atualmente são caminhada
 - :page_with_curl: Veja Meu [Currículo](https://andreyrvs.github.io/) para mais informações.
 <!--
