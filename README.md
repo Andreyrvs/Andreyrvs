@@ -34,7 +34,7 @@ contado pelo email andreyrvdev@gmail.com
  [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E")](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/pt/) | [![PHP]( https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/) |   [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/) |  [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/) |
 | :---: | :---: |:---: |:---: |:---: |
 
-
+<!--
 ### Ferramentas
 
 | Front-end | Back-end | Banco de dados | Testes | Outros |
@@ -45,7 +45,7 @@ contado pelo email andreyrvdev@gmail.com
 | [![Nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/) | [![CI/CD](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://docs.github.com/pt/actions) |.| [![Sinon Badge](https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon)](https://sinonjs.org/) | [![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/) |
 | [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org) |.|.| [![ChaiJs](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)](https://www.chaijs.com/) |.|
 | [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) |.|.|.|.|
-
+-->
 ---
 
 | [![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreyrvs&layout=compact&theme=dracula&hide_border=True&line_height=20&PAT_1)](https://github.com/anuraghazra/github-readme-stats) | [![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andreyrvs&layout=compact&theme=dracula&show_icons=true&hide_border=True&line_height=20&PAT_1)](https://github.com/anuraghazra/github-readme-stats) |
